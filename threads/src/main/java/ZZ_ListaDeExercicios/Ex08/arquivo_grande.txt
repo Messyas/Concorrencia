@@ -1,0 +1,1739 @@
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+Este é um arquivo de teste para contagem de palavras.
+Estamos utilizando várias linhas para simular um arquivo grande.
+Cada linha contém diferentes quantidades de palavras.
+
+Aqui temos mais uma linha com várias palavras.
+E mais outra linha, para garantir que o arquivo seja suficientemente grande.
+Java é uma linguagem de programação poderosa e eficiente.
+
+A contagem de palavras deve ser feita corretamente em cada thread.
+Sincronização é importante para evitar problemas de concorrência.
+Este exemplo simula um cenário de processamento paralelo.
+
+
+
+
