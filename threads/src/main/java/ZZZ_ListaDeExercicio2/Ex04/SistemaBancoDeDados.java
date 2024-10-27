@@ -11,6 +11,18 @@ package ZZZ_ListaDeExercicio2.Ex04;
 
 public class SistemaBancoDeDados {
     public static void main(String[] args) {
+        FilaBancoBuffer filaBancoBuffer = new FilaBancoBuffer();
 
+        Thread filaAcesso = new Thread(new FilaBancoBuffer(filaBancoBuffer));
+
+        Thread cliente1 = new Thread(new ClienteBD(filaBancoBuffer));
+        Thread cliente2 = new Thread(new ClienteBD(filaBancoBuffer));
+        Thread cliente3 = new Thread(new ClienteBD(filaBancoBuffer));
+
+        filaAcesso.start();
+
+        cliente1.start();
+        cliente2.start();
+        cliente3.start();
     }
 }

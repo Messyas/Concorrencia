@@ -15,7 +15,7 @@ class Buffer {
 
     // Método para o produtor adicionar itens no buffer
     public void produzir(int valor) throws InterruptedException {
-        lock.lock(); //quando se usa a palabra reservada lock nao ha necessidade de se utilzar a sincronizador, pois a classe Condition fara a sincronizacao
+        lock.lock(); //quando se usa a palavra reservada lock nao ha necessidade de se utilzar a sincronizador, pois a classe Condition fara a sincronizacao
         try {
             // Enquanto o buffer estiver cheio, o produtor deve esperar
             while (fila.size() == LIMITE) {
