@@ -8,7 +8,7 @@ public class SalaDeReuniaoProdutor implements Runnable{
     }
     @Override
     public void run() {
-        int valor = 0;
+        int valor = 1;
         try {
             while (true) {
                 buffer.produzir(valor++);
