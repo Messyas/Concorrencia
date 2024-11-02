@@ -1,4 +1,4 @@
-package ZZZ_ListaDeExercicio2.Ex03;
+package ZZZ_ListaDeExercicios2.Ex03;
 
 import java.util.LinkedList;
 

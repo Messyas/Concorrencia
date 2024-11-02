@@ -1,9 +1,9 @@
-package ZZZ_ListaDeExercicio2.Ex01;
+package ZZZ_ListaDeExercicios2.Ex02;
 
-public class FuncionarioConsumidor implements Runnable {
+public class ImpressoraConsumidor implements Runnable {
     Buffer buffer;
 
-    FuncionarioConsumidor (Buffer buffer) {
+    ImpressoraConsumidor(Buffer buffer) {
         this.buffer = buffer;
     }
 
@@ -11,11 +11,12 @@ public class FuncionarioConsumidor implements Runnable {
     public void run() {
         try {
             while (true) {
-                buffer.consumir();
-                Thread.sleep(3000); //simula o tempo de desocupar uma sala
+                buffer.consumidor();
+                Thread.sleep(3000);
             }
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
+
     }
 }

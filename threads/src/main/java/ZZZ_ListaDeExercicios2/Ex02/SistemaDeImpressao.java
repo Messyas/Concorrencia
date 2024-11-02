@@ -1,4 +1,4 @@
-package ZZZ_ListaDeExercicio2.Ex02;
+package ZZZ_ListaDeExercicios2.Ex02;
 
 /**
  * Exercício 2: Sistema de Impressão Compartilhada

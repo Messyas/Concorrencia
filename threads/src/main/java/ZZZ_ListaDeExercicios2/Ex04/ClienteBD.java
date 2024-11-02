@@ -1,4 +1,4 @@
-package ZZZ_ListaDeExercicio2.Ex04;
+package ZZZ_ListaDeExercicios2.Ex04;
 
 public class ClienteBD implements Runnable {
     FilaBancoBuffer filaBancoBuffer;

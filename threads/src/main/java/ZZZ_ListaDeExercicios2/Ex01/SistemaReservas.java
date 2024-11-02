@@ -1,4 +1,4 @@
-package ZZZ_ListaDeExercicio2.Ex01;
+package ZZZ_ListaDeExercicios2.Ex01;
 
 /**
  * Exercício 1: Sistema de Reservas de Salas de Reunião
