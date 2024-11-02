@@ -28,7 +28,7 @@ public class RecursoCompartilhado {
     public static void main(String[] args) {
         RecursoCompartilhado recurso = new RecursoCompartilhado();
 
-        for (int i = 1; i < 10; i++) {
+        for (int i = 0; i <= 10; i++) {
             new Thread(recurso::usarRecurso).start();
         }
     }
