@@ -8,21 +8,21 @@ import java.util.concurrent.Semaphore;
  */
 
 public class Servidor {
-        private final int LIMITE = 3;
-        private final Semaphore semaphore = new Semaphore(LIMITE, true);
+    private final int LIMITE = 3;
+    private final Semaphore semaphore = new Semaphore(LIMITE, true);
 
-        public void usarRecurso() {
-            try {
-                semaphore.acquire();
-                System.out.println(Thread.currentThread().getName() + " esta usando uma instancia do servidor. ");
+    public void usarRecurso() {
+        try {
+            semaphore.acquire();
+            System.out.println(Thread.currentThread().getName() + " esta usando uma instancia do servidor. ");
 
-                Thread.sleep(2000);
+            Thread.sleep(2000);
 
-                System.out.println(Thread.currentThread().getName() + " nao esta mais usando a instancia do servidor. ");
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            } finally {
-                semaphore.release();
-            }
+            System.out.println(Thread.currentThread().getName() + " nao esta mais usando a instancia do servidor. ");
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } finally {
+            semaphore.release();
         }
+    }
 }

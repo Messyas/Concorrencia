@@ -1,4 +1,4 @@
-package D_PrintTask.C_SimuladorDeDownloads;
+package C_SimuladorDeDownloads;
 
 import javax.swing.*;
 import java.awt.*;

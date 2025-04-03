@@ -13,11 +13,11 @@ public class RecursoCompartilhado {
     public void usarRecurso() {
         try {
             semaphore.acquire(); //concede uma permissao para uma thread
-            System.out.println(Thread.currentThread().getName() + " esta usando o recurso. ");
+            System.out.println(Thread.currentThread().getName() + " esta usando o recurso do server. ");
 
             Thread.sleep(2000);
 
-            System.out.println(Thread.currentThread().getName() + " liberou o recurso.");
+            System.out.println(Thread.currentThread().getName() + " liberou o recurso do server.");
         } catch (InterruptedException e) {
             e.printStackTrace();
         } finally {
